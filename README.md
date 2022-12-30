@@ -20,6 +20,6 @@ c++ Program to transfer the text to binary
 
 5- have fun
 
-![Terminal](https://github.com/rayenlakhal/Guess-the-number/blob/main/Screenshot%20from%202022-12-29%2018-06-24.png?raw=true)
+![Terminal](https://github.com/rayenlakhal/String-To-Binary/blob/main/ezgif.com-gif-maker.gif?raw=true)
 
 ## Thanks.
