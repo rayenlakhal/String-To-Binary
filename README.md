@@ -14,7 +14,7 @@ c++ Program to transfer the text to binary
 
 4- Input your text
 
-![Terminal](https://github.com/rayenlakhal/Guess-the-number/blob/main/Screenshot%20from%202022-12-29%2018-05-32.png?raw=true)
+![Terminal](https://github.com/rayenlakhal/String-To-Binary/blob/main/Screenshot%20from%202022-12-30%2014-35-13.png?raw=true)
 
 5- have fun
 
