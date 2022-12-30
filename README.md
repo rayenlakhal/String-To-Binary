@@ -8,7 +8,7 @@ c++ Program to transfer the text to binary
 
 2- Open the Terminal in the downloaded file
 
-![Terminal](https://github.com/rayenlakhal/Guess-the-number/blob/main/Screenshot%20from%202022-12-29%2018-04-25.png?raw=true)
+![Terminal](https://github.com/rayenlakhal/String-To-Binary/blob/main/Screenshot%20from%202022-12-30%2014-34-48.png?raw=true)
 
 3- Input `./stb`
 
